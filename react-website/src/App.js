@@ -14,11 +14,7 @@ function App() {
         {data.map((item, index) => (
           <Card
             key={index}  
-            img={item.img}
-            location={item.location}
-            distance={item.distance}
-            price={item.price}
-            onspot={item.onspot}
+            item={item}
           />
         ))}
       </div>
