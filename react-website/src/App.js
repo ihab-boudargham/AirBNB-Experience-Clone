@@ -18,6 +18,7 @@ function App() {
             location={item.location}
             distance={item.distance}
             price={item.price}
+            onspot={item.onspot}
           />
         ))}
       </div>

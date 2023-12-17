@@ -6,7 +6,8 @@ export default [
     img : '/images/img11.webp',
     location : 'Forsed, Sweden',
     distance : '3,473 kilometers away',
-    price : '$278'
+    price : '$278',
+    onspot : 0
 },
 
 {
@@ -14,7 +15,8 @@ export default [
     img : '/images/img13.webp',
     location : 'Vittorio Veneto, Italy',
     distance : '2,382 kilometers away',
-    price : '$538'
+    price : '$538',
+    onspot : 2
 },
 
  
@@ -23,7 +25,8 @@ export default [
     img : '/images/img12.webp',
     location : 'Tuscania, Italy',
     distance : '1,356 kilometers away',
-    price : '$3108'
+    price : '$3108',
+    onspot : 0
 },        
 
  
@@ -32,7 +35,8 @@ export default [
     img : '/images/img15.webp',
     location : 'Protaras, Cyprus',
     distance : '182 kilometers away',
-    price : '$242'
+    price : '$242',
+    onspot : 0
 },    
 
  
@@ -41,7 +45,8 @@ export default [
     img : '/images/img16.webp',
     location : 'Kas, Turkey',
     distance : '619 kilometers away',
-    price : '$52' 
+    price : '$52' ,
+    onspot : 3
 },      
 
  
@@ -50,8 +55,9 @@ export default [
     img : '/images/img17.webp',
     location : 'Forsed, Sweden',
     distance : '598 kilometers away',
-    price : '$51'
-},       
+    price : '$51',
+    onspot : 4
+},  
 
  
 {
@@ -59,7 +65,8 @@ export default [
     img : '/images/img17.webp',
     location : 'Forsed, Sweden',
     distance : '3,473 kilometers away',
-    price : '$278'  
+    price : '$278',
+    onspot : 0  
 },      
 
 ]
